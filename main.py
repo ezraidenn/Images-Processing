@@ -5,7 +5,7 @@ Loads a grayscale image, applies Gaussian, Sobel, and Median filters
 using Pure Python, NumPy, and NumPy+Cython, benchmarks performance,
 and generates comparison visualizations.
 
-Authors: Raúl Cetina, Christian Carreño, Christopher Quiñones
+Authors: Raúl Cetina, Daniel Gómez, Christopher Quiñones
 """
 
 import os
@@ -274,7 +274,7 @@ def main():
     """Main entry point."""
     print("=" * 60)
     print("  IMAGE PROCESSING FILTERS - UNIT 2")
-    print("  Raul Cetina | Christian Carreno | Christopher Quinones")
+    print("  Raul Cetina | Daniel Gomez | Christopher Quinones")
     print("=" * 60)
 
     ensure_dirs()

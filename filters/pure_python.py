@@ -4,7 +4,7 @@ Pure Python Image Processing Filters
 Implementation of Gaussian, Sobel, and Median filters
 using only Python built-in operations (no NumPy).
 
-Authors: Raúl Cetina, Christian Carreño, Christopher Quiñones
+Authors: Raúl Cetina, Daniel Gómez, Christopher Quiñones
 """
 
 import math

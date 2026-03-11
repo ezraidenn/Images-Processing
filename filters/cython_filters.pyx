@@ -5,7 +5,7 @@ Cython Image Processing Filters
 Implementation of Gaussian, Sobel, and Median filters
 using Cython typed memoryviews for C-level performance.
 
-Authors: Raúl Cetina, Christian Carreño, Christopher Quiñones
+Authors: Raúl Cetina, Daniel Gómez, Christopher Quiñones
 """
 
 import numpy as np

@@ -7,7 +7,7 @@ Implementation of three fundamental image processing filters (**Gaussian**, **So
 | Name | Role |
 |---|---|
 | Raúl Cetina | Developer |
-| Christian Carreño | Developer |
+| Daniel Gómez | Developer |
 | Christopher Quiñones | Developer |
 
 ## Filters Implemented
