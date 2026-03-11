@@ -1,0 +1,10 @@
+Filter,Approach,AvgTime_s
+Gaussian,NumPy,0.009329
+Gaussian,NumPy + Cython,0.000564
+Gaussian,Pure Python,0.345418
+Median,NumPy,0.008140
+Median,NumPy + Cython,0.002221
+Median,Pure Python,0.240595
+Sobel,NumPy,0.017792
+Sobel,NumPy + Cython,0.002245
+Sobel,Pure Python,0.471307

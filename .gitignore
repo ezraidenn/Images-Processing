@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Cython generated
+*.c
+!filters/cython_filters.pyx
+
+# LaTeX auxiliary files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
